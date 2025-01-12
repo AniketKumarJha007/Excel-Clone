@@ -10,4 +10,4 @@
 
 ## Deployment
 
-- [Deployment Link](https://aniketkumarjha007.github.io/Excel-Clone/)
+- [Deployment Link](https://excelclone.vercel.app/)

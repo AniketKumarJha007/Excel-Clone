@@ -12,7 +12,7 @@
 
 - [Deployment Link](https://excelclone.vercel.app/)
 
-## Deployment
+## Screenshot
 
 ![image](https://github.com/user-attachments/assets/f2fd0df4-f271-418a-888c-9e698df56521)
 
